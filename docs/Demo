@@ -32,7 +32,7 @@ Obě možnosti mají své výhody i nevýhody.
 Tuto dvojznačnost lze řešit explicitním označením $\mathbb N_0$, resp. $\mathbb N_+$. 
 
 Každý matematik (i přednášející), tedy musí ohlásit, zda slovy "přirozená čísla" (a symbolem $\mathbb N$) označuje množinu:
-- \(\{0,1,2,3,4,\dots\}\),
+- \(\{0,1,2,3,4,5,\dots\}\),
 
 nebo
 - $\{1,2,3,4\dots\}$.
