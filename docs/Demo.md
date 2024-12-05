@@ -1,3 +1,8 @@
+---
+layout: default
+title: "My Page Title"
+---
+
 ### Záměr 
 - Referenční bod pro obor Obecná matematika
 
